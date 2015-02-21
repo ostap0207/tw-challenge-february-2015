@@ -1,1 +1,5 @@
-####This is the place to tell us how you are going to measure your _awesomeness_
+- amount of app downloads
+- amount of connected shops
+- total sum of purchases
+- downloads \ purchases
+- total purchases \ through app
